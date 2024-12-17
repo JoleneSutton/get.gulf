@@ -17,3 +17,5 @@ Suggests:
     rmarkdown,
 VignetteBuilder: knitr
 LazyData: true
+URL: https://github.com/JoleneSutton/get.gulf
+BugReports: https://github.com/JoleneSutton/get.gulf/issues
