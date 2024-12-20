@@ -12,9 +12,8 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
-<span style="color:red; font-size: 4em">**package under construction**</span>
 
-# get.gulf
+# get.gulf is under construction
 
 <!-- badges: start -->
 <!-- badges: end -->

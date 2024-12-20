@@ -1,10 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<span style="color:red; font-size: 4em">**package under
-construction**</span>
-
-# get.gulf
+# get.gulf is under construction
 
 <!-- badges: start -->
 <!-- badges: end -->
