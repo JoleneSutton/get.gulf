@@ -22,8 +22,10 @@ collected from years 2004-2024, using two different vessels:
 - the CCGS Teleost (2004 - 2022) fishing a Western IIA bottom-trawl
 - the CCGS Capt. Jacques Cartier (2021 - 2024), fishing a modified
   version of the Northeast Fisheries Science Center Ecosystem Survey
-  Trawl, NEST (trawl details in Denton 2020; modifications outlined in
-  Ricard et al. 2023).
+  Trawl, NEST (trawl details in [Denton
+  2020](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/4087638x.pdf);
+  modifications outlined in [Ricard et
+  al. 2023](https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs97-6-3547-eng.pdf)).
 
 Vessel conversion factors are from [Benoît and Yin,
 2023](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41220614.pdf).
