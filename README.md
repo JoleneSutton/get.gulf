@@ -16,11 +16,18 @@ downstream processing and quality control prior to analysis.
 
 ## Research Vessel (RV)
 
-The current capacity is for gSGL September RV survey data collected by
-vessesls Teleost and Cartier, for years x-y.
+The current capacity is for sGSL September Research Vessel survey data
+collected from years 2004-2024, using two different vessels:
 
-Vessel conversion factors are from Beniot and Yin 2003 (source), see
-(table of rhos)
+- the CCGS Teleost (2004 - 2022) fishing a Western IIA bottom-trawl
+- the CCGS Capt. Jacques Cartier (2021 - 2024), fishing a modified
+  version of the Northeast Fisheries Science Center Ecosystem Survey
+  Trawl, NEST (trawl details in Denton 2020; modifications outlined in
+  Ricard et al. 2023).
+
+Vessel conversion factors are from [Benoît and Yin,
+2023](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41220614.pdf).
+link to object of rhos
 
 Diel conversion factors are from source… Alfred Needler, as recommended
 by source, see (table of diel cfs)
