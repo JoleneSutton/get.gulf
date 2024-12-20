@@ -17,3 +17,6 @@ Return raw commercial landings data from a ZIFF (Zonal Interchange Format File)
 \examples{
 #get_ziff(years=2022:2023,nafo=c("4r","4s","4t","4vn",'4vs',"3pn",'3ps'))
 }
+\seealso{
+gulf::read.ziff
+}

@@ -3,6 +3,7 @@
 #' @param years Which year(s) to return.
 #' @param nafo Which NAFO divistion(s). Case insensitive.
 #' @import gulf
+#' @seealso gulf::read.ziff
 #' @examples
 #' #get_ziff(years=2022:2023,nafo=c("4r","4s","4t","4vn",'4vs',"3pn",'3ps'))
 #' @export
